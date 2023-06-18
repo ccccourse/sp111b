@@ -24,6 +24,11 @@ ubuntu                  14.04     13b66b487594   2 years ago   197MB
 ubuntu                  15.10     9b9cb95443b5   6 years ago   137MB
 user@user-virtual-machine:~$ 
 ```
+
+![image](https://github.com/Bojun6667/sp111b/assets/99935026/4795d838-d370-4249-a3d8-87f3f0f47b87)
+![image](https://github.com/Bojun6667/sp111b/assets/99935026/b3e20253-1409-4c47-adb7-687fec750914)
+
+
 建立完成後，想要裝jupyternotebook
 
 ```
@@ -42,5 +47,7 @@ To access the notebook, open this file in a browser:
 點擊連結:http://127.0.0.1:8888/?token=3869a421b9cde2a3786277d2712f6aa45c1a6da8beeff25d
 便可進入jupyternotebook
 
----
+![image](https://github.com/Bojun6667/sp111b/assets/99935026/c51f4411-a5b2-45ab-a20b-47e13d5ef31a)
+![image](https://github.com/Bojun6667/sp111b/assets/99935026/65427c0c-d686-4688-bb09-e10454faff66)
+![image](https://github.com/Bojun6667/sp111b/assets/99935026/711301b1-87ff-4c30-ba00-8d72d927acf8)
 
